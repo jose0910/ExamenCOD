@@ -33,7 +33,8 @@ Pregunta
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
+- Volvemos a entrar en la carpeta de src, modificamos el archivo, de damos a commit changes y nos volvemos a pycharm
 
-Pregunta
-- Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+- Ahora ponemos  git pull origin main, que lo que hara es cambiar y actualizar nuestro archivo local 
+![pull.png](src/pull.png)
 
