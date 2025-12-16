@@ -2,10 +2,7 @@
 
 ---
 
-## Instrucciones
-- Los commits de cada apartado deben tener el mensaje *"Apartado X - descripción del cambio realizado"*
-- Entrega en la tarea de Moodle tu repositorio
-- Solo se corrigen los commits que estén en el repositorio remoto
+
 
 ### Apartado 1
 
