@@ -13,7 +13,10 @@
 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
-
+- Crear un nuevo repositorio en git hub y poniendo la url en manage remotes para que cada vez que
+hagamos un commit y lo pusheemos se nos suba a nuestro repositorio anteriormente creado
+- ![url.png](src/url.png)
+- ![Manage remotes.png](src/Manage%20remotes.png)
 
 ### Apartado 2
 
@@ -22,7 +25,10 @@ Pregunta
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
-
+- Entramos en nuestro repositorio de git hub, buscamos la carpeta de src y le damos a la opcion de editar (tiene el icono de un boli)
+- ![git hub fech.png](src/git%20hub%20fech.png)
+- Le damos a commit changes y luego nos vamos a la consola de pycharm y ponemos lo siguiente
+- ![fetch...png](fetch...png)
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
